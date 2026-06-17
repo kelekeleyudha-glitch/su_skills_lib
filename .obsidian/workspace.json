@@ -11,10 +11,14 @@
             "id": "49eb1437e76534e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "skills/SK1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "SK1"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "skills/SK1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "SK1 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "skills/SK1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "SK1 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "skills/SK1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "SK1 的大纲"
             }
           },
           {
@@ -187,16 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ec4eb409b219afc",
+  "active": "49eb1437e76534e5",
   "lastOpenFiles": [
-    "skills/未命名.md",
+    "README.md",
+    "skills/SK1.md",
+    "skills/SK1/未命名.md",
     "docs",
     "templates",
     "skills/SK3",
     "skills/SK4",
     "skills/SK2",
     "skills/SK1",
-    "README.md",
     "skills",
     "欢迎.md"
   ]
