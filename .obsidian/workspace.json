@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49eb1437e76534e5",
+  "active": "2ec4eb409b219afc",
   "lastOpenFiles": [
     "README.md",
     "skills/SK1.md",
